@@ -1,0 +1,1 @@
+ C:/dev/wx/lib/gcc_x64_dll/libwxbase32u_net.a C:/dev/wx/lib/gcc_x64_dll/libwxmsw32u_core.a C:/dev/wx/lib/gcc_x64_dll/libwxbase32u.a -lgdiplus -lmsimg32 -lwinmm -lcomctl32 -luuid -loleacc -luxtheme -lrpcrt4 -lshlwapi -lversion -lwsock32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/lab23/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

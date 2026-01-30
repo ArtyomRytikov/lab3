@@ -1,0 +1,42 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/dev/wx/include/**",
+                "C:/dev/wx/lib/gcc_x64_dll/mswu"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "WXUSINGDLL",
+                "__WXMSW__"
+            ],
+            "compilerPath": "C:/dev/mingw/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerArgs": [
+                "-IC:/dev/wx/include",
+                "-IC:/dev/wx/lib/gcc_x64_dll/mswu",
+                "-mthreads",
+                "-pipe",
+                "-fmessage-length=0",
+                "-fno-keep-inline-dllexport",
+                "-fdiagnostics-color=always"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "C:/dev/wx/include",
+                    "C:/dev/wx/lib/gcc_x64_dll/mswu"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}

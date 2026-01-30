@@ -1,0 +1,3 @@
+C:/lab23/build/CMakeFiles/Lab23.dir
+C:/lab23/build/CMakeFiles/edit_cache.dir
+C:/lab23/build/CMakeFiles/rebuild_cache.dir
