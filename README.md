@@ -5,28 +5,28 @@
 ### Структуры данных графов
 
 **М-1.2. Неориентированный граф** (рейтинг: 6)  
-- Реализовано в файле `src/core/structures/graph/UndirectedGraph.h`*
+- Реализовано в файле `src/core/structures/graph/UndirectedGraph.h`
 
 **М-1.1. Ориентированный граф** (рейтинг: 5)  
-- Реализовано в файле `src/core/structures/graph/DirectedGraph.h`*
+- Реализовано в файле `src/core/structures/graph/DirectedGraph.h`
 
 **Общая база графов**  
-- Реализовано в файле `src/core/structures/graph/GraphBase.h`*
+- Реализовано в файле `src/core/structures/graph/GraphBase.h`
 
 
 ### Алгоритмы на графах
 
 **М-2.6. Поиск компонент связности неориентированного графа** (рейтинг: 4)  
-- Реализовано в файле `src/core/tasks/ConnectedComponents.h`*
+- Реализовано в файле `src/core/tasks/ConnectedComponents.h`
 
 **М-2.2.1. Поиск кратчайших путей на ориентированном/неориентированном графе** (рейтинг: 5)  
-- Реализовано в файле `src/core/tasks/ShortestPath.h`*
+- Реализовано в файле `src/core/tasks/ShortestPath.h`
 
 **М-2.8. Топологическое упорядочение** (рейтинг: 6)  
-- Реализовано в файле `src/core/tasks/TopologicalSort.h`*
+- Реализовано в файле `src/core/tasks/TopologicalSort.h`
 
 **М-2.13. Построение частичного порядка, определение экстремальных характеристик** (рейтинг: 7)  
-- Реализовано в файле `src/core/tasks/PartialOrder.h`*
+- Реализовано в файле `src/core/tasks/PartialOrder.h`
 
 **М-3.1. Генерация графов заданной топологии и размера** (рейтинг: 10)  
 - Встроена в классы графов
